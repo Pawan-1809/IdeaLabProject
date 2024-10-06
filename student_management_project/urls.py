@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.urls import path, include
 from django.conf.urls.static import static
-from student_management_system import settings
+from student_management_project import settings
 
 
 urlpatterns = [
