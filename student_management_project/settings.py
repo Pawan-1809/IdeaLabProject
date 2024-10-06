@@ -42,7 +42,7 @@ MIDDLEWARE = [
     'student_management_app.LoginCheckMiddleWare.LoginCheckMiddleWare',
 ]
 
-ROOT_URLCONF = 'student_management_system.urls'
+ROOT_URLCONF = 'student_management_project.urls'
 
 TEMPLATES = [
     {
@@ -60,7 +60,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'student_management_system.wsgi.application'
+WSGI_APPLICATION = 'student_management_project.wsgi.application'
 
 
 # Database
