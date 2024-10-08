@@ -1,10 +1,4 @@
-/*!
- *   AdminLTE v3.0.5
- *     Only Plugins
- *   Author: Colorlib
- *   Website: AdminLTE.io <http://adminlte.io>
- *   License: Open source - MIT <http://opensource.org/licenses/MIT>
- */
+
 .fc-button {
   background: #f8f9fa;
   background-image: none;
@@ -6466,5 +6460,3 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   overflow: hidden;
   position: relative;
 }
-
-/*# sourceMappingURL=adminlte.plugins.css.map */

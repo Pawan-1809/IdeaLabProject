@@ -1,11 +1,3 @@
-/*!
- * Bootstrap Colorpicker - Bootstrap Colorpicker is a modular color picker plugin for Bootstrap 4.
- * @package bootstrap-colorpicker
- * @version v3.2.0
- * @license MIT
- * @link https://itsjavi.com/bootstrap-colorpicker/
- * @link https://github.com/itsjavi/bootstrap-colorpicker.git
- */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory(require("jquery"));
@@ -1746,7 +1738,7 @@ module.exports = {
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* MIT license */
+/*
 var cssKeywords = __webpack_require__(5);
 
 // NOTE: conversions should only return primitive values (i.e. arrays, or
@@ -5234,7 +5226,7 @@ module.exports = Color;
 /* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* MIT license */
+
 var colorNames = __webpack_require__(5);
 var swizzle = __webpack_require__(18);
 
@@ -6249,4 +6241,3 @@ module.exports = exports.default;
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=bootstrap-colorpicker.js.map

@@ -1,15 +1,4 @@
-/*!
- *   AdminLTE v3.0.5
- *   Author: Colorlib
- *   Website: AdminLTE.io <http://adminlte.io>
- *   License: Open source - MIT <http://opensource.org/licenses/MIT>
- */
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -26693,14 +26682,6 @@ select.form-control-sm ~ .select2-container--default .select2-selection--multipl
   color: #343a40;
 }
 
-/**
-  * bootstrap-switch - Turn checkboxes and radio buttons into toggle switches.
-  *
-  * @version v3.4 (MODDED)
-  * @homepage https://bttstrp.github.io/bootstrap-switch
-  * @author Mattia Larentis <mattia@larentis.eu> (http://larentis.eu)
-  * @license MIT
-  */
 .bootstrap-switch {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
@@ -31218,4 +31199,3 @@ a.text-muted:hover {
 [class*="accent-"] a.btn-dark {
   color: #ffffff;
 }
-/*# sourceMappingURL=adminlte.css.map */

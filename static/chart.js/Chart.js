@@ -1,9 +1,4 @@
-/*!
- * Chart.js v2.9.3
- * https://www.chartjs.org
- * (c) 2019 Chart.js Contributors
- * Released under the MIT License
- */
+
 (function (global, factory) {
 typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory(function() { try { return require('moment'); } catch(e) { } }()) :
 typeof define === 'function' && define.amd ? define(['require'], function(require) { return factory(function() { try { return require('moment'); } catch(e) { } }()); }) :
@@ -172,7 +167,7 @@ var colorName = {
 };
 
 var conversions = createCommonjsModule(function (module) {
-/* MIT license */
+   
 
 
 // NOTE: conversions should only return primitive values (i.e. arrays, or
@@ -1379,7 +1374,7 @@ var colorName$1 = {
 	"yellowgreen": [154, 205, 50]
 };
 
-/* MIT license */
+   
 
 
 var colorString = {
@@ -1617,7 +1612,7 @@ for (var name in colorName$1) {
    reverseNames[colorName$1[name]] = name;
 }
 
-/* MIT license */
+   
 
 
 

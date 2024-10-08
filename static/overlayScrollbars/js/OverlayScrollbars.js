@@ -7,7 +7,7 @@
  * Copyright KingSora | Rene Haas.
  * https://github.com/KingSora
  *
- * Released under the MIT license.
+   
  * Date: 29.02.2020
  */
 

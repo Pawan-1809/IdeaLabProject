@@ -1,11 +1,4 @@
 
-/***** xregexp.js *****/
-
-/*!
- * XRegExp v2.0.0
- * (c) 2007-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- */
 
 /**
  * XRegExp provides augmented, extensible JavaScript regular expressions. You get new syntax,
@@ -1267,14 +1260,6 @@ XRegExp = XRegExp || (function (undef) {
 }());
 
 
-/***** unicode-base.js *****/
-
-/*!
- * XRegExp Unicode Base v1.0.0
- * (c) 2008-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Uses Unicode 6.1 <http://unicode.org/>
- */
 
 /**
  * Adds support for the `\p{L}` or `\p{Letter}` Unicode category. Addon packages for other Unicode
@@ -1424,13 +1409,6 @@ XRegExp = XRegExp || (function (undef) {
 
 /***** unicode-categories.js *****/
 
-/*!
- * XRegExp Unicode Categories v1.2.0
- * (c) 2010-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Uses Unicode 6.1 <http://unicode.org/>
- */
-
 /**
  * Adds support for all Unicode categories (aka properties) E.g., `\p{Lu}` or
  * `\p{Uppercase Letter}`. Token names are case insensitive, and any spaces, hyphens, and
@@ -1529,12 +1507,6 @@ XRegExp = XRegExp || (function (undef) {
 
 /***** unicode-scripts.js *****/
 
-/*!
- * XRegExp Unicode Scripts v1.2.0
- * (c) 2010-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Uses Unicode 6.1 <http://unicode.org/>
- */
 
 /**
  * Adds support for all Unicode scripts in the Basic Multilingual Plane (U+0000-U+FFFF).
@@ -1628,14 +1600,6 @@ XRegExp = XRegExp || (function (undef) {
 }(XRegExp));
 
 
-/***** unicode-blocks.js *****/
-
-/*!
- * XRegExp Unicode Blocks v1.2.0
- * (c) 2010-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Uses Unicode 6.1 <http://unicode.org/>
- */
 
 /**
  * Adds support for all Unicode blocks in the Basic Multilingual Plane (U+0000-U+FFFF). Unicode
@@ -1816,12 +1780,7 @@ XRegExp = XRegExp || (function (undef) {
 
 /***** unicode-properties.js *****/
 
-/*!
- * XRegExp Unicode Properties v1.0.0
- * (c) 2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Uses Unicode 6.1 <http://unicode.org/>
- */
+
 
 /**
  * Adds Unicode properties necessary to meet Level 1 Unicode support (detailed in UTS#18 RL1.2).
@@ -1858,11 +1817,6 @@ XRegExp = XRegExp || (function (undef) {
 
 /***** matchrecursive.js *****/
 
-/*!
- * XRegExp.matchRecursive v0.2.0
- * (c) 2009-2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- */
 
 (function (XRegExp) {
     "use strict";
@@ -2042,12 +1996,6 @@ XRegExp = XRegExp || (function (undef) {
 
 /***** build.js *****/
 
-/*!
- * XRegExp.build v0.1.0
- * (c) 2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- * Inspired by RegExp.create by Lea Verou <http://lea.verou.me/>
- */
 
 (function (XRegExp) {
     "use strict";
@@ -2189,22 +2137,7 @@ XRegExp = XRegExp || (function (undef) {
 }(XRegExp));
 
 
-/***** prototypes.js *****/
 
-/*!
- * XRegExp Prototype Methods v1.0.0
- * (c) 2012 Steven Levithan <http://xregexp.com/>
- * MIT License
- */
-
-/**
- * Adds a collection of methods to `XRegExp.prototype`. RegExp objects copied by XRegExp are also
- * augmented with any `XRegExp.prototype` methods. Hence, the following work equivalently:
- *
- * XRegExp('[a-z]', 'ig').xexec('abc');
- * XRegExp(/[a-z]/ig).xexec('abc');
- * XRegExp.globalize(/[a-z]/i).xexec('abc');
- */
 (function (XRegExp) {
     "use strict";
 

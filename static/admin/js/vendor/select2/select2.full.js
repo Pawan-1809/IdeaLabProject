@@ -1,10 +1,4 @@
-/*!
- * Select2 4.0.7
- * https://select2.github.io
- *
- * Released under the MIT license
- * https://github.com/select2/select2/blob/master/LICENSE.md
- */
+
 ;(function (factory) {
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
@@ -43,10 +37,7 @@
   }
 var S2;(function () { if (!S2 || !S2.requirejs) {
 if (!S2) { S2 = {}; } else { require = S2; }
-/**
- * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
- * Released under MIT license, http://github.com/requirejs/almond/LICENSE
- */
+
 //Going sloppy to avoid 'use strict' string cost, but strict practices should
 //be followed.
 /*global setTimeout: false */
@@ -6295,13 +6286,6 @@ S2.define('select2/selection/stopPropagation',[
   return StopPropagation;
 });
 
-/*!
- * jQuery Mousewheel 3.1.13
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license
- * http://jquery.org/license
- */
 
 (function (factory) {
     if ( typeof S2.define === 'function' && S2.define.amd ) {

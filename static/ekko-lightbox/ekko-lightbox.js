@@ -1,9 +1,4 @@
-/*!
- * Lightbox for Bootstrap by @ashleydw
- * https://github.com/ashleydw/lightbox
- *
- * License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
- */
+
 +function ($) {
 
 'use strict';
@@ -663,6 +658,6 @@ var Lightbox = (function ($) {
 
 	return Lightbox;
 })(jQuery);
-//# sourceMappingURL=ekko-lightbox.js.map
+
 
 }(jQuery);

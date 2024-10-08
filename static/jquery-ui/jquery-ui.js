@@ -25,7 +25,7 @@ var version = $.ui.version = "1.12.1";
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -748,7 +748,7 @@ var widget = $.widget;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  *
  * http://api.jqueryui.com/position/
@@ -1236,7 +1236,7 @@ var position = $.ui.position;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -1265,7 +1265,7 @@ var data = $.extend( $.expr[ ":" ], {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -1301,7 +1301,7 @@ var disableSelection = $.fn.extend( {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -1332,7 +1332,7 @@ $.effects = {
  * https://github.com/jquery/jquery-color
  *
  * Copyright 2014 jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  *
  * Date: Wed Jan 16 08:47:09 2013 -0600
@@ -2926,7 +2926,7 @@ var effect = $.effects;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -2982,7 +2982,7 @@ var effectsEffectBlind = $.effects.define( "blind", "hide", function( options, d
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3078,7 +3078,7 @@ var effectsEffectBounce = $.effects.define( "bounce", function( options, done ) 
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3129,7 +3129,7 @@ var effectsEffectClip = $.effects.define( "clip", "hide", function( options, don
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3184,7 +3184,7 @@ var effectsEffectDrop = $.effects.define( "drop", "hide", function( options, don
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3281,7 +3281,7 @@ var effectsEffectExplode = $.effects.define( "explode", "hide", function( option
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3314,7 +3314,7 @@ var effectsEffectFade = $.effects.define( "fade", "toggle", function( options, d
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3389,7 +3389,7 @@ var effectsEffectFold = $.effects.define( "fold", "hide", function( options, don
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3432,7 +3432,7 @@ var effectsEffectHighlight = $.effects.define( "highlight", "show", function( op
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3609,7 +3609,7 @@ var effectsEffectSize = $.effects.define( "size", function( options, done ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3650,7 +3650,7 @@ var effectsEffectScale = $.effects.define( "scale", function( options, done ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3677,7 +3677,7 @@ var effectsEffectPuff = $.effects.define( "puff", "hide", function( options, don
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3727,7 +3727,7 @@ var effectsEffectPulsate = $.effects.define( "pulsate", "show", function( option
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3787,7 +3787,7 @@ var effectsEffectShake = $.effects.define( "shake", function( options, done ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3849,7 +3849,7 @@ var effectsEffectSlide = $.effects.define( "slide", "show", function( options, d
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3875,7 +3875,7 @@ var effectsEffectTransfer = effect;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -3959,7 +3959,7 @@ var form = $.fn.form = function() {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4022,7 +4022,7 @@ var formResetMixin = $.ui.formResetMixin = {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  *
  */
@@ -4101,7 +4101,7 @@ if ( $.fn.jquery.substring( 0, 3 ) === "1.7" ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4147,7 +4147,7 @@ var escapeSelector = $.ui.escapeSelector = ( function() {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4199,7 +4199,7 @@ var labels = $.fn.labels = function() {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4234,7 +4234,7 @@ var scrollParent = $.fn.scrollParent = function( includeHidden ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4259,7 +4259,7 @@ var tabbable = $.extend( $.expr[ ":" ], {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4298,7 +4298,7 @@ var uniqueId = $.fn.extend( {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -4925,7 +4925,7 @@ var safeActiveElement = $.ui.safeActiveElement = function( document ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -5580,7 +5580,7 @@ var widgetsMenu = $.widget( "ui.menu", {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -6244,7 +6244,7 @@ var widgetsAutocomplete = $.ui.autocomplete;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -6529,7 +6529,7 @@ var widgetsControlgroup = $.widget( "ui.controlgroup", {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -6799,7 +6799,7 @@ var widgetsCheckboxradio = $.ui.checkboxradio;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -7167,7 +7167,7 @@ var widgetsButton = $.ui.button;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -9276,7 +9276,7 @@ var ie = $.ui.ie = !!/msie [\w.]+/.exec( navigator.userAgent.toLowerCase() );
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -9532,7 +9532,7 @@ var safeBlur = $.ui.safeBlur = function( element ) {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -10762,7 +10762,7 @@ var widgetsDraggable = $.ui.draggable;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -11946,7 +11946,7 @@ var widgetsResizable = $.ui.resizable;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -12861,7 +12861,7 @@ var widgetsDialog = $.ui.dialog;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -13342,7 +13342,7 @@ var widgetsDroppable = $.ui.droppable;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -13506,7 +13506,7 @@ var widgetsProgressbar = $.widget( "ui.progressbar", {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -13801,7 +13801,7 @@ var widgetsSelectable = $.widget( "ui.selectable", $.ui.mouse, {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -14467,7 +14467,7 @@ var widgetsSelectmenu = $.widget( "ui.selectmenu", [ $.ui.formResetMixin, {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -15203,7 +15203,7 @@ var widgetsSlider = $.widget( "ui.slider", $.ui.mouse, {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -16739,7 +16739,7 @@ var widgetsSortable = $.widget( "ui.sortable", $.ui.mouse, {
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -17297,7 +17297,7 @@ var widgetsSpinner = $.ui.spinner;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
@@ -18203,7 +18203,7 @@ var widgetsTabs = $.ui.tabs;
  * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
+   
  * http://jquery.org/license
  */
 
