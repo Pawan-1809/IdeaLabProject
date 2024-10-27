@@ -1005,12 +1005,7 @@
     return DirectChat;
   }(jQuery);
 
-  /**
-   * --------------------------------------------
-   * AdminLTE TodoList.js
-   * License MIT
-   * --------------------------------------------
-   */
+
   var TodoList = function ($) {
     /**
      * Constants
