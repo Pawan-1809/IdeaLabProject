@@ -5,7 +5,7 @@ import sys
 from django.core.management import execute_from_command_line
 
 if __name__ == "__main__":
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "your_project_name.settings")
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "student_management_project.settings")
     port = os.environ.get("PORT", "10000")  # Get port from environment or default to 10000
     execute_from_command_line(["manage.py", "runserver", f"0.0.0.0:{port}"])
 
