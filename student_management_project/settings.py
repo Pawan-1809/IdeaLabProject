@@ -14,7 +14,7 @@ SECRET_KEY = '(i#*06f#keydy_fh17bf=$0f6v)^wr^l7*u4gq42m*sztu#2_m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["IdeaLabProject", "0.0.0.0", "127.0.0.1"]
+ALLOWED_HOSTS = ["idealabproject.onrender.com", "0.0.0.0", "127.0.0.1"]
 
 
 
