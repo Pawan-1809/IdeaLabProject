@@ -10,6 +10,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '(i#*06f#keydy_fh17bf=$0f6v)^wr^l7*u4gq42m*sztu#2_m'
+CSRF_TRUSTED_ORIGINS = ["https://idealabproject.onrender.com"]
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
